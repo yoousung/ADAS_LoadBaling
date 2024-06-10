@@ -14,6 +14,9 @@
 - [ncnn](https://github.com/Tencent/ncnn/releases) (ncnn-20230816-android)
 
 ### 3) Diagram
+![프레젠테이션1](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/1d9198a9-2aae-4e9b-925b-92a09547e4f5)
+
+
 
 ### 4) Model
 |Tech |Model |Model Name |
