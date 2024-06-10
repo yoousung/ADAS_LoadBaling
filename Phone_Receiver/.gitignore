@@ -1,0 +1,6 @@
+.idea
+.gradle
+.cxx
+app/build
+ncnn-*-android
+opencv-mobile-*-android
