@@ -10,8 +10,8 @@
 ### 2) Setting
 - Gradle JDK jbr-17
 - CMake 3.10.2
-- [opencv](https://github.com/nihui/opencv-mobile/releases)
-- [ncnn](https://github.com/Tencent/ncnn/releases)
+- [opencv](https://github.com/nihui/opencv-mobile/releases) (opencv-mobile-4.8.0-android)
+- [ncnn](https://github.com/Tencent/ncnn/releases) (ncnn-20230816-android)
 
 ### 3) Diagram
 
@@ -28,7 +28,7 @@
 
 |Tech |Before Image |After Image |
 |---|---|---|
-|Object Detection | | |
+|Object Detection |![000017](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/7f2c15ff-ce2a-4ca9-a1eb-b8290079f6ec) | |
 |Line Detection |![000017](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/7f2c15ff-ce2a-4ca9-a1eb-b8290079f6ec) |![result_ll](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/856c51f4-56e2-4095-be00-3aa170fab184) |
 |Segmentation |![000017](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/ed708eb2-88aa-4ddd-92a0-68b33677a6dc) |![result_da](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/91e1b2a6-3e62-4163-9bcf-ad286f4e1793) |
 |Both |![000017](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/481f0463-6a75-4aef-9793-db77ff002a36) |![result_both](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/975f2eef-bd48-4c4b-ad17-c45399daa13b) |
