@@ -1,0 +1,9 @@
+.idea
+.gradle
+.cxx
+app/build
+ncnn-20201218-android
+ncnn-20220420-android
+ncnn-20230816-android
+opencv-mobile-4.5.1-android
+opencv-mobile-4.8.0-android

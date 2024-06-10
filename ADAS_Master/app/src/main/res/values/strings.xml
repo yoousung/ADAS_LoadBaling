@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoProject_Master</string>
+    <string-array name="model_array">
+        <item>nanodet-m</item>
+        <item>yolov8_both</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
+</resources>
