@@ -37,13 +37,6 @@
 |Both |![000017](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/481f0463-6a75-4aef-9793-db77ff002a36) |![result_both](https://github.com/yoousung/ADAS_LoadBaling/assets/108113584/975f2eef-bd48-4c4b-ad17-c45399daa13b) |
 
 
-| |Device |
-|---|---|
-|4G ADAS | ![IMG_0070](https://github.com/bert13069598/LoadBalancing/assets/89738612/c254fe30-5345-43aa-9277-acbd2141e1b6) |
-|Galaxy S22 |![Screenshot_20231222_005406_DemoProject](https://github.com/bert13069598/LoadBalancing/assets/89738612/b11a6f93-9214-4b89-96e1-dba3c98910c2)|
-
-
-
 
 ### 6) reference
 https://github.com/Digital2Slave/ncnn-android-yolov8-seg/wiki/Convert-yolov8-model-to-ncnn-model  
